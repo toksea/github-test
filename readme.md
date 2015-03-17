@@ -13,13 +13,3 @@ byebye
 
 f12
 
-f4
-
-f5
-
-f123
-
-f321
-
-hehe
-asdfasdf
